@@ -4,8 +4,8 @@
 
 ## Education
 |    EDUCATION|
-|---|---|
 | Bachelor of Science  |  Bachelor of Science |
+|---|---|
 | University of Manitoba |  University of Manitoba |
 | Major: Computer Science  |  Major: Genetics |
 | Expected Date of Completion: August 2020 | Expected Date of Completion: August 2020|
