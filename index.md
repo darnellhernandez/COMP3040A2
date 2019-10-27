@@ -1,5 +1,4 @@
 # Darnell Hernandez
-# (204)-880-6082
 # hernandd@myumanitoba.ca
 # [GitHub: darnellhernandez](https://github.com/darnellhernandez)
 
