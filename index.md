@@ -9,18 +9,6 @@
 | Major: Computer Science  |  Major: Genetics |
 | Expected Date of Completion: August 2020 | Expected Date of Completion: August 2020|
 
-## Education
-
-### Bachelor of Science
-### University of Manitoba
-### Major: Computer Science
-### Expected Date of Completion: August 2020
-
-### Bachelor of Science
-### University of Manitoba
-### Major: Genetics
-### Expected Date of Completion: August 2020
-
 ## TECHNICAL SKILLS FROM COMPUTER SCIENCE
 
 | Programming Languages| Tools and Technology|
