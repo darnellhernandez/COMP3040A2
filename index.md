@@ -1,6 +1,8 @@
 # Darnell Hernandez
-# hernandd@myumanitoba.ca
-# [GitHub: darnellhernandez](https://github.com/darnellhernandez)
+
+### Email: hernandd@myumanitoba.ca
+
+### GitHub: [darnellhernandez](https://github.com/darnellhernandez)
 
 ## EDUCATION
 
