@@ -15,12 +15,13 @@
 ### Expected Date of Completion: August 2020
 
 ## TECHNICAL SKILLS FROM COMPUTER SCIENCE
+
 ### Programming Languages
 - Java
 - Python
 - C
 
-###Tools and Technology
+### Tools and Technology
 - Git
 - Android Studio
 - MySQL
@@ -41,7 +42,7 @@
 - Centrifuge machine
 - Biosafety cabinet
 
-##WORK EXPERIENCE
+## WORK EXPERIENCE
 
 ### IKEA Kitchen Planner 						                                     
 #### IKEA Winnipeg, MB
