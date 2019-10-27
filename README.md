@@ -69,6 +69,6 @@
 
 ## FAQs 
 ### Why can I not use the pre-set templates on GitHub?
-- Your account may be on private. If you go through the "HOW TO HOST MARKDOWN FILE IN GIT PAGES" instructions, they go through changing your setting for hosting. The reason is that in order to use these templates, your account must be set as public or you must pay for these resources to use privately. 
+- Your account may be on private. The reason is that in order to use these templates, your account must be set as public or you must pay for these resources to use privately.  If you go through the "HOW TO HOST MARKDOWN FILE IN GIT PAGES" instructions, they go through changing your setting for hosting.
 ### How 
 
