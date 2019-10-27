@@ -3,7 +3,7 @@
 # hernandd@myumanitoba.ca
 
 ## Education
-|    | EDUCATION|
+|    EDUCATION|
 |---|---|
 | Bachelor of Science  |  Bachelor of Science |
 | University of Manitoba |  University of Manitoba |
