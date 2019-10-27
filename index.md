@@ -2,6 +2,13 @@
 # (204)-880-6082
 # hernandd@myumanitoba.ca
 
+|   Education  |
+|---|---|
+| Bachelor of Science  |  Bachelor of Science |
+| University of Manitoba |  University of Manitoba |
+| Major: Computer Science  |  Major: Genetics |
+| Expected Date of Completion: August 2020 | Expected Date of Completion: August 2020|
+
 ## Education
 
 ### Bachelor of Science
