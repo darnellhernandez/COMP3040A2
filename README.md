@@ -58,7 +58,7 @@
 ### This is how 
 
 ## More Resources 
--	A tutorial on Markdown: https://www.markdowntutorial.com/
+-	A tutorial on [Markdown here](https://www.markdowntutorial.com/)
 -	An introduction to GitHub Flavored Markdown from GitHub: https://github.github.com/gfm/
 -	An introduction to GitHub Pages from GitHub: https://help.github.com/en/categories/working- with-github-pages
 
