@@ -2,14 +2,14 @@
 # (204)-880-6082
 # hernandd@myumanitoba.ca
 
-## Education
+## EDUCATION
 | Bachelor of Science  |  Bachelor of Science |
 |---|---|
 | University of Manitoba |  University of Manitoba |
 | Major: Computer Science  |  Major: Genetics |
 | Expected Date of Completion: August 2020 | Expected Date of Completion: August 2020|
 
-### TECHNICAL SKILLS FROM COMPUTER SCIENCE
+## TECHNICAL SKILLS FROM COMPUTER SCIENCE
 
 | Programming Languages| Tools and Technology|
 |---|---|
@@ -27,7 +27,7 @@
 - Android Studio
 - MySQL
 
-### TECHNICAL SKILLS FROM GENETICS 
+## TECHNICAL SKILLS FROM GENETICS 
 
 |Methods and Techniques | Tools and Technologies  |
 |---|---|
