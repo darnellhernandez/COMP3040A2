@@ -24,6 +24,12 @@
 
 ## TECHNICAL SKILLS FROM COMPUTER SCIENCE
 
+| Programming Languages| Tools and Technology|
+|---|---|
+| Java |  Git |
+| Python | Android Studio|
+| C| MySQL|
+
 ### Programming Languages
 - Java
 - Python
