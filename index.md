@@ -41,6 +41,16 @@
 - MySQL
 
 ## TECHNICAL SKILLS FROM GENETICS 
+
+|Methods and Techniques | Tools and Technologies  |
+|---|---|
+|Asceptic technique   | Micropipette  |
+|Bacterial staining   | Spectrophotometer  |
+|PCR  |Centrifuge machine   |
+|Media and solution preparation   | Biosafety cabinet |
+|Bacterial plating techniques   |   |
+|Titrating techniques  |   |
+|Plasmid construction   |   |
  
 ### Methods and Techniques
 - Asceptic technique
@@ -55,6 +65,7 @@
 - Spectrophotometer
 - Centrifuge machine
 - Biosafety cabinet
+
 
 ## WORK EXPERIENCE
 
