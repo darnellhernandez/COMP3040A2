@@ -34,7 +34,7 @@
 
 ## INSTRUCTIONS
 	
-### Hello, the instructions below are useful instructions that can help a user host their resume on Git and change the layout to a pre-set theme.
+### Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set theme.
 
 ### In order to use a pre-set theme on Git, the user must convert their resume document into a Markdown file.
 
