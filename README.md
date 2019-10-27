@@ -10,17 +10,23 @@
 -	No experience with Jekyll
 -	No experience with VS-code
 
-### Venue: README file within GitHub Pages
+### Venue:
+- README file within GitHub Pages
 
-### Purpose: Write a resume using Markdown, Format with Jekyll Theme, and host resume on GitHub Pages
+### Purpose:
+- Write a resume using Markdown, Format with Jekyll Theme, and host resume on GitHub Pages
 
-### Additional Purpose: Gain experience and confidence in technical writing tools: Markdown, Jekyll and GitHub Pages
+### Additional Purpose:
+- Gain experience and confidence in technical writing tools: Markdown, Jekyll and GitHub Pages
 
-### Desired Reaction: A
+### Desired Reaction: 
+- A
 
-### Vocabulary: Technical words and simple words to allow for understanding for people with a minimal background knowledge
+### Vocabulary: 
+- Technical words and simple words to allow for understanding for people with a minimal background knowledge
 
-### Tone: Respectful and formal
+### Tone: 
+- Respectful and formal
 
 ## PREREQUISITES 
 
