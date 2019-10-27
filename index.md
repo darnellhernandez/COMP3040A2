@@ -53,11 +53,10 @@
 - Centrifuge machine
 - Biosafety cabinet
 
-
 ## WORK EXPERIENCE
 
 ### IKEA Kitchen Planner 						                                     
-#### IKEA Winnipeg, MB
+#### IKEA, Winnipeg, MB
 #### November 2015– Present
 - Communicated effectively with customers to help customers with the kitchen planning program that IKEA offers 
 - Efficiently used allotted time to complete In-Store-Planning-Service appointments 
