@@ -23,7 +23,7 @@
 - A
 
 ### Vocabulary: 
-- Technical words and simple words to allow for understanding for people with a minimal background knowledge
+- Technical and simple words to allow for understanding for people with a minimal background knowledge
 
 ### Tone: 
 - Respectful and formal
