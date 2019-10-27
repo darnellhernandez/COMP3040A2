@@ -44,7 +44,7 @@
 ##WORK EXPERIENCE
 
 ### IKEA Kitchen Planner 						                                     November 2015– Present
-### IKEA
+### IKEA Winnipeg
 - Communicated effectively with customers to help customers with the kitchen planning program that IKEA offers 
 - Efficiently used allotted time to complete In-Store-Planning-Service appointments 
 - Demonstrated effective teamwork with coworkers to finish daily tasks and provide assistance to customers who are planning their kitchens in store 
