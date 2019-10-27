@@ -43,19 +43,22 @@
 
 ##WORK EXPERIENCE
 
-### IKEA Kitchen Planner 						                                     November 2015– Present
+### IKEA Kitchen Planner 						                                     
+#### November 2015– Present
 #### IKEA Winnipeg
 - Communicated effectively with customers to help customers with the kitchen planning program that IKEA offers 
 - Efficiently used allotted time to complete In-Store-Planning-Service appointments 
 - Demonstrated effective teamwork with coworkers to finish daily tasks and provide assistance to customers who are planning their kitchens in store 
 
-### Basic Statistical Analysis 1 Invigilator (casual)             		           October 2014 – March 2015
+### Basic Statistical Analysis 1 Invigilator (casual)             		           
+#### October 2014 – March 2015
 #### University of Manitoba, Winnipeg, MB
 - Invigilated STAT 1000 mid-term examination 1 and 2
 - Monitored students for the duration of the exam for any academic dishonesty
 - Confirmed identities of students by verifying examinee’s university student card 
 
-### Customer Service Specialist                                                       May 2014 – March 2015
+### Customer Service Specialist                                                       
+#### May 2014 – March 2015
 #### Future Shop, 850 St. James Street, Winnipeg, MB
 - Communicated effectively with customers to solve their problems in order to guarantee customer satisfaction
 - Demonstrated efficient teamwork with fellow associates when all daily tasks were completed, and customers were helped within a timely manner. 
