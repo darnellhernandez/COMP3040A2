@@ -157,7 +157,7 @@ For example, we can name the document "RESUME.md" and copy our content from our 
 
 ![NewFile](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewFile.png)
 
-2. 2. **Editing/Saving/Deleting**. In Git, they are icons in files to start editing. Additionally, once the edit option is selected, there is a trash-can icon for deleting files. In Git, saves are referred to as **"commits"**. In the file being editted, once the wanted changes are made, you can commit the changes to the document through the **commit changes""** icon at the bottom of the page. 
+2. **Editing/Saving/Deleting**. In Git, they are icons in files to start editing. Additionally, once the edit option is selected, there is a trash-can icon for deleting files. In Git, saves are referred to as **"commits"**. In the file being editted, once the wanted changes are made, you can commit the changes to the document through the **commit changes""** icon at the bottom of the page. 
 
 The edit icon is outlined in **RED** and the trash-can icon is outlined in **BLUE** in the example picture below.
 
