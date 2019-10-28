@@ -21,16 +21,6 @@
 | Python                   | Android Studio           |
 | C                        | MySQL                    |
 
-### Programming Languages
-- Java
-- Python
-- C
-
-### Tools and Technology
-- Git
-- Android Studio
-- MySQL
-
 ## TECHNICAL SKILLS FROM GENETICS 
  
 | **Methods and Techniques**     | **Tools and Technologies** |
