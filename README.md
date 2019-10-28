@@ -96,12 +96,18 @@ Hello, these instructions can help a user host their resume on Git and change th
 1. Go to the [Git Website](https://github.com/git)
 
 2. Once on the website, click on the SignUp Icon.
+![SignUp Screen](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignUp.png)
+The SignUp icon is boxed in **RED**.
 
-3. Create an account, by entering your preferred information.
+3. A new page will load, where you can create an account, by entering your preferred information.
+![Enter Information](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/CreateAccount.png)
 
 4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address to finish confirmation.
 
+![Verify Icon In Email](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png)
+
 > Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
+![SignIn](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignIn.png)
 
 > Now that you are now an account user on Git, you may create a repository on your Git account for hosting your resume. Below are instructions on how to create a repositiory. 
 
