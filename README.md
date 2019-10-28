@@ -57,9 +57,9 @@ Once, the user has their resume on Git, they can host they resume on Git Pages. 
 This is how 
 
 ## More Resources 
--	A tutorial on [Markdown here](https://www.markdowntutorial.com/)
--	An introduction to GitHub Flavored Markdown from GitHub: https://github.github.com/gfm/
--	An introduction to GitHub Pages from GitHub: https://help.github.com/en/categories/working- with-github-pages
+-	A tutorial on [Markdown Tutorial](https://www.markdowntutorial.com/)
+-	An introduction to [GitHub Flavored Markdown](https://github.github.com/gfm/)
+-	An introduction to [GitHub Pages](https://help.github.com/en/categories/working-with-github-pages)
 
 ## Authors and Acknowledgements
 -	Wilson
