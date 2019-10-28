@@ -38,7 +38,7 @@ Hello, these instructions can help a user host their resume on Git and change th
 
 In order to use a pre-set theme on Git, the user must convert their resume document into a Markdown file.
 
-### HOW TO USE MARKDOWN
+### HOW TO BASIC FEATURES IN MARKDOWN
 
 Once the resume is a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
 
