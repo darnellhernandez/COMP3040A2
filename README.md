@@ -64,7 +64,7 @@ This is how
 ## Authors and Acknowledgements
 -	Wilson
 -	Harry
--	Theme Template Author
+-	mattgrapham (Theme Template Author)
 
 ## FAQs 
 ### Why can I not use the pre-set templates on GitHub?
