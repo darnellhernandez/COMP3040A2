@@ -33,13 +33,19 @@ Prerequisites to using this are having a complete resume.
 
 ## INSTRUCTIONS
 	
-Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set theme.
+> Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set theme.
 
-In order to use a pre-set theme on Git, the user must convert their resume document into a Markdown file.
+> The user first has to convert their resume document into a Markdown file. To create a Markdown, a Markdown editor can be used to write it. Some Markdown editors that can be used are Atom and VSCode. Any Markdown editor can be used, it just depends on what your comfortable with. The editor used for this assignment specifically was VSCode. 
 
-#### HOW TO BASIC FEATURES IN MARKDOWN
+> VSCode has nice features where you can see live previews and preview it with the GitHub Flavoured Markdown Plugin, so it fit very well with our assignment details. It is also an editor that is free to download online.
 
-1. **LINES**. Lines can be use to separate text. A blank new line is used to separate text. If there is no line, the texts will be beside each other.
+> You can create your new Markdown file (extension .md) in your editor and convert your resume using Markdown syntax. 
+
+> Below are some basic features on Markdown. 
+
+#### HOW TO USE BASIC FEATURES IN MARKDOWN
+
+1. **LINES**. Lines can be use to separate text. A blank new line is used to separate text. If there is no empty line in between, the texts will be beside each other.
 
 2. **HEADERS.** Headers are used to separate text and to show different sizes of text. The Number of " # " placed in front of the text will change the size and separation with 1 " # " being the largest.
 
@@ -74,6 +80,14 @@ In order to use a pre-set theme on Git, the user must convert their resume docum
 	| 2  |    |    |    |
 	| 3  |	  |    |    |	
 
+5. **LINKS**. Links can be used to attach a link to text.Through the syntax [text](link), a user can attach a link to text.  For example, if the link was used to show other work or more resources. 
+
+	GitHub: [darnellhernandez](https://github.com/darnellhernandez)
+
+	`Markdown
+	[darnellhernandez](https://github.com/darnellhernandez)`
+
+If you are wanting to learn more about Markdown or curious about what more it can do. There are links to more resources in the resource section. 
 
 Once the resume is a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
 
