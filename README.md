@@ -28,7 +28,7 @@
 
 ## PREREQUISITES 
 
-Prerequisites to using this are having a complete resume, 
+Prerequisites to using this are having a complete resume.
 
 ## INSTRUCTIONS
 	
