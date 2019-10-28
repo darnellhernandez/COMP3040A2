@@ -61,7 +61,7 @@ Hello, these instructions can help a user host their resume on Git and change th
 	
 	_BYE_ 
 	`Markdown _BYE_`
-	
+
 4. **TABLES**. Tables can be used to display information. Tables are made through the use of " | " and " --- " in specifc places. " | " is used to determine the number of rows and colums needed. A separate row is added and filled with " --- " in each column; it is placed as the second row. This row is not included as part of visible table, but is required in your markdown text. 
 
 	`Markdown
@@ -89,13 +89,23 @@ If you are wanting to learn more about Markdown or curious about what more you c
 
 Once the resume is made into a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
 
-In order to start, a user must make a Git account to use the system. If you have an account already, you may skip this step.
+In order to start, a user must make a Git account to use the system. Below are instruction to create an account, but if you have an account already, you may skip this step.
 
 #### HOW TO SIGNUP FOR GIT ACCOUNT
 
-Once, the user’s account is confirmed. They can now place their resume on Git. 
+1. Go to the [Git Website](https://github.com/git)
 
-In order to do that, a user must transfer their Markdown file to Git. 
+2. Once on the website, click on the SignUp Icon.
+
+3. Create an account, by entering your preferred information.
+
+4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address to finish confirmation.
+
+Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
+
+Now that you are now an account user on Git, you may create a repository on your Git account for hosting your resume. Below are instructions on how to create a repositiory. 
+
+#### HOW TO CREATE A REPOSITORY ON GIT
 
 #### HOW TO USE BASIC FEATURES IN GIT
 
