@@ -6,20 +6,20 @@
 
 ## EDUCATION
 
-| Bachelor of Science                      | Bachelor of Science                     |
-| ---                                      | ---                                     |
-| University of Manitoba                   | University of Manitoba                  |
-| Major: Computer Science                  | Major: Genetics                         |
-| Expected Date of Completion: August 2020 | Expected Date of Completion: August 2020|
+| **Bachelor of Science**                    |**Bachelor of Science**                    |
+| ---                                        | ---                                       |
+| University of Manitoba                     | University of Manitoba                    |
+| Major: _Computer Science_                  | Major: _Genetics_                         |
+| Expected Date of Completion: _August 2020_ | Expected Date of Completion: _August 2020_|
 
 
 ## TECHNICAL SKILLS FROM COMPUTER SCIENCE
 
-| Programming Languages| Tools and Technology|
-|---|---|
-| Java |  Git |
-| Python | Android Studio|
-| C| MySQL|
+| **Programming Languages**| **Tools and Technology** |
+|---                       |---                       |
+| Java                     | Git                      |
+| Python                   | Android Studio           |
+| C                        | MySQL                    |
 
 ### Programming Languages
 - Java
@@ -33,15 +33,15 @@
 
 ## TECHNICAL SKILLS FROM GENETICS 
  
-| Methods and Techniques         | Tools and Technologies |
-| ---                            | ---                    |
-| Asceptic technique             | Micropipette           |
-| Bacterial staining             | Spectrophotometer      |
-| PCR                            | Centrifuge machine     |
-| Media and solution preparation | Biosafety cabinet      |
-| Bacterial plating techniques   |                        |
-| Titrating techniques           |                        |
-| Plasmid construction           |                        |
+| **Methods and Techniques**     | **Tools and Technologies** |
+| ---                            | ---                        |
+| Asceptic technique             | Micropipette               |
+| Bacterial staining             | Spectrophotometer          |
+| PCR                            | Centrifuge machine         |
+| Media and solution preparation | Biosafety cabinet          |
+| Bacterial plating techniques   |                            |
+| Titrating techniques           |                            |
+| Plasmid construction           |                            |
 
 ## RELATED SKILLS
 
@@ -63,21 +63,21 @@
 ## WORK EXPERIENCE
 
 ### IKEA Kitchen Planner 						                                     
-#### IKEA, Winnipeg, MB
+#### _IKEA, Winnipeg, MB_
 #### November 2015 – Present
 - Communicated effectively with customers to help customers with the kitchen planning program that IKEA offers 
 - Efficiently used allotted time to complete In-Store-Planning-Service appointments 
 - Demonstrated effective teamwork with coworkers to finish daily tasks and provide assistance to customers who are planning their kitchens in store 
 
 ### Basic Statistical Analysis 1 Invigilator (casual)             		           
-#### University of Manitoba, Winnipeg, MB
+#### _University of Manitoba, Winnipeg, MB_
 #### October 2014 – March 2015
 - Invigilated STAT 1000 mid-term examination 1 and 2
 - Monitored students for the duration of the exam for any academic dishonesty
 - Confirmed identities of students by verifying examinee’s university student card 
 
 ### Customer Service Specialist                                                       
-#### Future Shop, 850 St. James Street, Winnipeg, MB
+#### _Future Shop, 850 St. James Street, Winnipeg, MB_
 #### May 2014 – March 2015
 - Communicated effectively with customers to solve their problems in order to guarantee customer satisfaction
 - Demonstrated efficient teamwork with fellow associates when all daily tasks were completed, and customers were helped within a timely manner. 
