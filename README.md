@@ -141,15 +141,30 @@ The "New" option has been outlined in **RED** in the example picture below.
 
 ![CreateRepository](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Create%20Repository.png)
 
-> Your new repository will be created and found in the **"Your Repository"** section of your account. Your can access it and place your Markdown file of your resume in the repository. 
+> Your new repository will be created and found in the **"Your Repository"** section of your account. Your can access it and place your Markdown file of your resume in the repository.
 
-#### HOW TO USE BASIC FEATURES IN GIT
+> Below are some basic features on how to use the repository
 
-Once, the user has their resume on Git, they can host they resume on Git Pages. Git Pages is essential a public repository. 
+#### HOW TO USE BASIC FEATURES OF THE REPOSITORY
+
+1. **Create a file**. Creating a file in the respository is simple, click the **"Create new file"** icon and it will lead you to a make a new document in the git editor. In this editor, you can name the document and enter in text. 
+
+The **"Create new file"** option has been outlined in **RED** in the example picture below.
+
+![CreateFile](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/CreateFile.png)
+
+For example, we can name the document "RESUME.md" and copy our content from our Markdown editor into this editor. This will allow us to save the resume in the repository. 
+
+![NewFile](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewFile.png)
+
+2. **Editing/Saving**. In Git, they refer to saves, as **"commits"**. In the file being editted, once the wanted changes are made, you can commit the changes to the document through the **commit changes""** icon at the bottom of the page. 
+
+![COMMIT](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/COMMIT.png)
+
+> Once, the you have your resume on Git, they can host they resume on Git Pages. Git Pages is essential a public repository. Below are instructions on how to change your template and host your resume on Git Pages.
 
 #### HOW TO HOST MARKDOWN FILE IN GIT PAGES
 
-This is how 
 
 ## More Resources 
 -	A tutorial on [Markdown Tutorial](https://www.markdowntutorial.com/)
