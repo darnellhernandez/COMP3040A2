@@ -96,8 +96,9 @@ Hello, these instructions can help a user host their resume on Git and change th
 1. Go to the [Git Website](https://github.com/git)
 
 2. Once on the website, click on the SignUp Icon.
+
+The SignUp icon is outlined in **RED** in the example picture below.
 ![SignUp Screen](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignUp.png)
-The SignUp icon is boxed in **RED**.
 
 3. A new page will load, where you can create an account, by entering your preferred information.
 ![Enter Information](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/CreateAccount.png)
@@ -107,11 +108,40 @@ The SignUp icon is boxed in **RED**.
 ![Verify Icon In Email](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png)
 
 > Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
+
+The SignIn icon is outlined in **RED** in the example picture below.
 ![SignIn](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignIn.png)
 
 > Now that you are now an account user on Git, you may create a repository on your Git account for hosting your resume. Below are instructions on how to create a repositiory. 
 
 #### HOW TO CREATE A REPOSITORY ON GIT
+
+1. First, login to your Git Account 
+
+2. On the top right corner there will
+
+![icon](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/ICON.png).
+
+Click the icon and a drop down menu will appear. In that menu, there will be a **"Your repositories"** option. Please select that option.
+
+These options have been outlined in **RED** in the example picture below.
+
+![Repositories](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Repositories.png)
+
+
+3. Once in the repositories page, click on **NEW** to create a new repository. 
+
+The "New" option has been outlined in **RED** in the example picture below.
+
+![NewRepository](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewRepository.png)
+
+4. A new page will be seen and fill out the page to create a new repository. You will need a repository name and make the repository public. Click "Create repository" once finished.
+
+**NOTE: if you select _PRIVATE_ for your repository, you will not be able to use the preset templates in Git. You will have to change the settings of your repository later to use the templates.**
+
+![CreateRepository](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Create%20Repository.png)
+
+> Your new repository will be created and found in the **"Your Repository"** section of your account. Your can access it and place your Markdown file of your resume in the repository. 
 
 #### HOW TO USE BASIC FEATURES IN GIT
 
