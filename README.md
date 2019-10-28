@@ -102,7 +102,7 @@ The SignUp icon is boxed in **RED**.
 3. A new page will load, where you can create an account, by entering your preferred information.
 ![Enter Information](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/CreateAccount.png)
 
-4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address to finish confirmation.
+4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address in your email to finish confirmation.
 
 ![Verify Icon In Email](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png)
 
