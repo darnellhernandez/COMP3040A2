@@ -157,13 +157,44 @@ For example, we can name the document "RESUME.md" and copy our content from our 
 
 ![NewFile](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewFile.png)
 
-2. **Editing/Saving**. In Git, they refer to saves, as **"commits"**. In the file being editted, once the wanted changes are made, you can commit the changes to the document through the **commit changes""** icon at the bottom of the page. 
+2. 2. **Editing/Saving/Deleting**. In Git, they are icons in files to start editing. Additionally, once the edit option is selected, there is a trash-can icon for deleting files. In Git, saves are referred to as **"commits"**. In the file being editted, once the wanted changes are made, you can commit the changes to the document through the **commit changes""** icon at the bottom of the page. 
 
+The edit icon is outlined in **RED** and the trash-can icon is outlined in **BLUE** in the example picture below.
+
+![EDIT/DELETE](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/EDIT:DELETE.png)
+
+Example of COMMIT SECTION
 ![COMMIT](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/COMMIT.png)
 
-> Once, the you have your resume on Git, they can host they resume on Git Pages. Git Pages is essential a public repository. Below are instructions on how to change your template and host your resume on Git Pages.
+> Once, the you have your resume on Git, they can host they resume on Git Pages. Git Pages is essential a public repository. Below are instructions on how to change your Jekyll template and host your resume on Git Pages.
 
-#### HOW TO HOST MARKDOWN FILE IN GIT PAGES
+#### HOW TO CHANGE TEMPLATE FOR MARKDOWN FILE AND HOST IN GIT PAGES
+
+1. Go the the **SETTINGS** section of your repository.
+
+The **SETTINGS** section has been outlined in **RED** in the example picture below.
+
+![Settings](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Settings.png)
+
+2. In the **SETTINGS** section, there will be a _GitHub Pages section_. In this section, there will be an option to select your a Jekyll Theme. The selected theme for this assignment is "Midnight Theme". The theme can be any option as long as it supports markdown tables. In the preset themes, not all themes support markdown tables.
+
+The **Theme** section has been outlined in **RED** in the example picture below.
+![Theme](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Theme.png)
+
+3. Once theme is selected, two new files will be added to your repository; **Index.md** and **_ config.yml**. 
+
+**_ config.yml** is a configuration file contains the selected Jekyll theme and **Index.md** is a markdown file of their example. 
+
+4. Select the Index.md file and delete it through the trash can icon. Commit the changes to actually delete the file. The **Index.md** is the name of the file that will be hosted once you go to your GitHub Pages.
+
+5. Rename your resume file to **Index.md** through editting, so it can be used to host.
+
+6. Once completed, you can access your GitHub Page through the **Setting** section of your repository. In the **Sectting** section, the GitHub Page will have a link to your site.
+
+![Website](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Website.png)
+
+
+Finally, your resume is now hosted on GitHub Pages. 
 
 
 ## More Resources 
@@ -177,8 +208,12 @@ For example, we can name the document "RESUME.md" and copy our content from our 
 -	mattgraham (Theme Template Author)
 
 ## FAQs 
-### Why can I not use the pre-set templates on GitHub?
-- Your repository may be on private as it must be set as public to use.  If you go through the "HOW TO HOST MARKDOWN FILE IN GIT PAGES" instructions, they go through changing your setting for hosting.
+### Why can I not use the pre-set Jekyll templates on GitHub?
+- Your repository may be on private as it must be set as public to use.  If you go to the **SETTINGS** section of your repository, at the bottom of the page there is a danger zone. You can change your repository to public to allow use of template.
+
+![private](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Private.png)
+
+
 ### Why does my template on change my "GitHub Page"?
 - The page on GitHub Pages needs time for the settings to update.
 
