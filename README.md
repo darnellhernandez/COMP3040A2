@@ -35,11 +35,11 @@ Prerequisites to using this are having a complete resume.
 	
 Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set theme.
 
-> The user first has to convert their resume document into a Markdown file. To create a Markdown, a Markdown editor can be used to write it. Some Markdown editors that can be used are Atom and VSCode. Any Markdown editor can be used, it just depends on what your comfortable with. The editor used for this assignment specifically was VSCode. 
+> The user first has to convert their resume document into a Markdown file. To create a Markdown file, a Markdown editor can be used to write it. Some Markdown editors that can be used are Atom and VSCode. Any Markdown editor can be used, it just depends on what your comfortable with. The editor used for this assignment specifically was VSCode. 
 
 > VSCode has nice features where you can see live previews and preview it with the GitHub Flavoured Markdown Plugin, so it fit very well with our assignment details. It is also an editor that is free to download online.
 
-> You can create your new Markdown file (extension .md) in your editor and convert your resume using Markdown syntax. Below are some basic features on Markdown. 
+> You can create your new Markdown file (extension .md) in your Markdown editor of choice and convert your resume using Markdown syntax. Below are some basic features in Markdown. 
 
 #### HOW TO USE BASIC FEATURES IN MARKDOWN
 
@@ -85,9 +85,9 @@ Hello, these instructions can help a user host their resume on Git and change th
 	`Markdown
 	[darnellhernandez](https://github.com/darnellhernandez)`
 
-If you are wanting to learn more about Markdown or curious about what more it can do. There are links to more resources in the resource section. 
+If you are wanting to learn more about Markdown or curious about what more you can do. There are links to more resources in the resource section. 
 
-Once the resume is a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
+Once the resume is made into a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
 
 In order to start, a user must make a Git account to use the system. If you have an account already, you may skip this step.
 
