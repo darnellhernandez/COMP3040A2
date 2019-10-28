@@ -4,7 +4,7 @@
 
 ## AUDIENCE PROFILE
 ### Audience:
-#### Technical Background:
+    Technical Background:
 -	No experience with Markdown
 -	Some experience with GitHub
 -	No experience with Jekyll
@@ -30,32 +30,33 @@
 
 ## PREREQUISITES 
 
-### Prerequisites to using this are having a complete resume, 
+Prerequisites to using this are having a complete resume, 
 
 ## INSTRUCTIONS
 	
-### Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set theme.
+Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set theme.
 
-### In order to use a pre-set theme on Git, the user must convert their resume document into a Markdown file.
+In order to use a pre-set theme on Git, the user must convert their resume document into a Markdown file.
 
 ### HOW TO USE MARKDOWN
 
-### Once the resume is a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
+Once the resume is a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
 
-### In order to start, a user must make a Git account to use the system. If you have an account already, you may skip this step.
+In order to start, a user must make a Git account to use the system. If you have an account already, you may skip this step.
 
 ### HOW TO SIGNUP FOR GIT ACCOUNT
 
-### Once, the user’s account is confirmed. They can now place their resume on Git. 
-### In order to do that, a user must transfer their Markdown file to Git. 
+Once, the user’s account is confirmed. They can now place their resume on Git. 
+
+In order to do that, a user must transfer their Markdown file to Git. 
 
 ### HOW TO USE BASIC FEATURES IN GIT
 
-### Once, the user has their resume on Git, they can host they resume on Git Pages. Git Pages is essential a public repository. 
+Once, the user has their resume on Git, they can host they resume on Git Pages. Git Pages is essential a public repository. 
 
 ### HOW TO HOST MARKDOWN FILE IN GIT PAGES
 
-### This is how 
+This is how 
 
 ## More Resources 
 -	A tutorial on [Markdown here](https://www.markdowntutorial.com/)
