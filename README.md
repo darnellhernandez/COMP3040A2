@@ -85,11 +85,11 @@ Hello, these instructions can help a user host their resume on Git and change th
 	`Markdown
 	[darnellhernandez](https://github.com/darnellhernandez)`
 
-If you are wanting to learn more about Markdown or curious about what more you can do. There are links to more resources in the resource section. 
+> If you are wanting to learn more about Markdown or curious about what more you can do. There are links to more resources in the resource section. 
 
-Once the resume is made into a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
+> Once the resume is made into a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
 
-In order to start, a user must make a Git account to use the system. Below are instruction to create an account, but if you have an account already, you may skip this step.
+> In order to start, a user must make a Git account to use the system. Below are instruction to create an account, but if you have an account already, you may skip this step.
 
 #### HOW TO SIGNUP FOR GIT ACCOUNT
 
@@ -101,9 +101,9 @@ In order to start, a user must make a Git account to use the system. Below are i
 
 4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address to finish confirmation.
 
-Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
+> Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
 
-Now that you are now an account user on Git, you may create a repository on your Git account for hosting your resume. Below are instructions on how to create a repositiory. 
+> Now that you are now an account user on Git, you may create a repository on your Git account for hosting your resume. Below are instructions on how to create a repositiory. 
 
 #### HOW TO CREATE A REPOSITORY ON GIT
 
