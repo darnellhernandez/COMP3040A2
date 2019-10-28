@@ -43,7 +43,7 @@ Hello, these instructions can help a user host their resume on Git and change th
 
 #### HOW TO USE BASIC FEATURES IN MARKDOWN
 
-1. **LINES**. Lines can be use to separate text. A blank new line is used to separate text. If there is no empty line in between, the texts will be beside each other.
+1. **EMPTY LINES**. A empy new line is used to separate text. If there is no empty line in between, the texts will be beside each other.
 
 2. **HEADERS.** Headers are used to separate text and to show different sizes of text. The Number of " # " placed in front of the text will change the size and separation with 1 " # " being the largest.
 
