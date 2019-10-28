@@ -39,6 +39,42 @@ In order to use a pre-set theme on Git, the user must convert their resume docum
 
 #### HOW TO BASIC FEATURES IN MARKDOWN
 
+1. **LINES**. Lines can be use to separate text. A blank new line is used to separate text. If there is no line, the texts will be beside each other.
+
+2. **HEADERS.** Headers are used to separate text and to show different sizes of text. The Number of " # " placed in front of the text will change the size and separation with 1 " # " being the largest.
+
+	# HEADER1 
+	`Markdown # Header1`
+	## HEADER2 
+	`Markdown ## Header2`
+	### HEADER3 
+	`Markdown ### Header3`
+
+3. **BOLD and _ITALICED_ TEXT**. Bold and italiced text can be use to differentiate between different text for importance. Bold text is implemented by placing 2 " * " at the before and after the text wanted to bold. Italiced text is implemented by placing 1 " _ " before and after text wanted. 
+
+	**HELLO** 
+	`Markdown **HELLO**`
+	
+	_BYE_ 
+	`Markdown _BYE_`
+	
+4. **TABLES**. Tables can be used to display information. Tables are made through the use of " | " and " --- " in specifc places. " | " is used to determine the number of rows and colums needed. A separate row is added and filled with " --- " in each column; it is placed as the second row. This row is not included as part of visible table, but is required in your markdown text. 
+
+	`Markdown
+	|    | 1  | 2  |  3 |
+	|--- |--- |--- |--- |
+	| 1  |    |    |    |
+	| 2  |    |    |    |
+	| 3  |	  |    |    |
+	`
+
+	|    | 1  | 2  |  3 |
+	|--- |--- |--- |--- |
+	| 1  |    |    |    |
+	| 2  |    |    |    |
+	| 3  |	  |    |    |	
+
+
 Once the resume is a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
 
 In order to start, a user must make a Git account to use the system. If you have an account already, you may skip this step.
