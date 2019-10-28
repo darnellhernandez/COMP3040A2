@@ -183,7 +183,7 @@ The **Theme** section has been outlined in **RED** in the example picture below.
 
 3. Once theme is selected, two new files will be added to your repository; **Index.md** and **_ config.yml**. 
 
-**_ config.yml** is a configuration file contains the selected Jekyll theme and **Index.md** is a markdown file of their example. 
+**_ config.yml** is a configuration file that contains the selected Jekyll theme and **Index.md** is a markdown file of their example. 
 
 4. Select the Index.md file and delete it through the trash can icon. Commit the changes to actually delete the file. The **Index.md** is the name of the file that will be hosted once you go to your GitHub Pages.
 
