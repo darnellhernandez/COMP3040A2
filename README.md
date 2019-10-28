@@ -33,15 +33,13 @@ Prerequisites to using this are having a complete resume.
 
 ## INSTRUCTIONS
 	
-> Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set theme.
+Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set theme.
 
 > The user first has to convert their resume document into a Markdown file. To create a Markdown, a Markdown editor can be used to write it. Some Markdown editors that can be used are Atom and VSCode. Any Markdown editor can be used, it just depends on what your comfortable with. The editor used for this assignment specifically was VSCode. 
 
 > VSCode has nice features where you can see live previews and preview it with the GitHub Flavoured Markdown Plugin, so it fit very well with our assignment details. It is also an editor that is free to download online.
 
-> You can create your new Markdown file (extension .md) in your editor and convert your resume using Markdown syntax. 
-
-> Below are some basic features on Markdown. 
+> You can create your new Markdown file (extension .md) in your editor and convert your resume using Markdown syntax. Below are some basic features on Markdown. 
 
 #### HOW TO USE BASIC FEATURES IN MARKDOWN
 
