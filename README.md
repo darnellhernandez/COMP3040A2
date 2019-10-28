@@ -18,7 +18,7 @@
 - Gain experience and confidence in technical writing tools: Markdown, Jekyll and GitHub Pages
 
 ### Desired Reaction: 
-- A
+- Informative and helpful
 
 ### Vocabulary: 
 - Technical and simple words to allow for understanding for people with a minimal background knowledge
