@@ -2,11 +2,11 @@
 
 ## AUDIENCE PROFILE
 ### Audience:
-    Technical Background:
--	No experience with Markdown
--	Some experience with GitHub
--	No experience with Jekyll
--	No experience with VS-code
+- Technical Background:
+	- No experience with Markdown
+	- Some experience with GitHub
+	- No experience with Jekyll
+	- No experience with VS-code
 
 ### Venue:
 - README file within GitHub Pages
