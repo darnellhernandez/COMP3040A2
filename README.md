@@ -1,5 +1,3 @@
-# COMP3040A2
-
 # Hosting your Resume through GitHub Pages 
 
 ## AUDIENCE PROFILE
