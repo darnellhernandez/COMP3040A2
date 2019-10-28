@@ -118,20 +118,19 @@ The SignIn icon is outlined in **RED** in the example picture below.
 
 1. First, login to your Git Account 
 
-2. On the top right corner there will
+2. On the top right corner there will an icon that looks like this 
 
 ![icon](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/ICON.png).
 
 Click the icon and a drop down menu will appear. In that menu, there will be a **"Your repositories"** option. Please select that option.
 
-These options have been outlined in **RED** in the example picture below.
+The icon and option have been outlined in **RED** in the example picture below.
 
 ![Repositories](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Repositories.png)
 
+3. Once in the repositories page, click on **"NEW"** to create a new repository. 
 
-3. Once in the repositories page, click on **NEW** to create a new repository. 
-
-The "New" option has been outlined in **RED** in the example picture below.
+The **"NEW"** option has been outlined in **RED** in the example picture below.
 
 ![NewRepository](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewRepository.png)
 
@@ -193,9 +192,7 @@ The **Theme** section has been outlined in **RED** in the example picture below.
 
 ![Website](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Website.png)
 
-
 Finally, your resume is now hosted on GitHub Pages. 
-
 
 ## More Resources 
 -	A tutorial on [Markdown Tutorial](https://www.markdowntutorial.com/)
@@ -213,7 +210,5 @@ Finally, your resume is now hosted on GitHub Pages.
 
 ![private](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Private.png)
 
-
 ### Why does my template on change my "GitHub Page"?
 - The page on GitHub Pages needs time for the settings to update.
-
