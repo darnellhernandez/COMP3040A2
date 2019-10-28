@@ -1,29 +1,30 @@
 # Hosting your Resume through GitHub Pages 
 
 ## AUDIENCE PROFILE
-### Audience:
+
+#### Audience:
 - Technical Background:
 	- No experience with Markdown
 	- Some experience with GitHub
 	- No experience with Jekyll
 	- No experience with VS-code
 
-### Venue:
+#### Venue:
 - README file within GitHub Pages
 
-### Purpose:
+#### Purpose:
 - Write a resume using Markdown, Format with Jekyll Theme, and host resume on GitHub Pages
 
-### Additional Purpose:
+#### Additional Purpose:
 - Gain experience and confidence in technical writing tools: Markdown, Jekyll and GitHub Pages
 
-### Desired Reaction: 
+#### Desired Reaction: 
 - Informative and helpful
 
-### Vocabulary: 
+#### Vocabulary: 
 - Technical and simple words to allow for understanding for people with a minimal background knowledge
 
-### Tone: 
+#### Tone: 
 - Respectful and formal
 
 ## PREREQUISITES 
