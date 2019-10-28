@@ -107,7 +107,7 @@ The SignUp icon is outlined in **RED** in the example picture below.
 
 ![Verify Icon In Email](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png)
 
-> Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
+Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
 
 The SignIn icon is outlined in **RED** in the example picture below.
 ![SignIn](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignIn.png)
