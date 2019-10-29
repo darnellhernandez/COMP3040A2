@@ -1,31 +1,8 @@
 # Hosting your Resume through GitHub Pages 
 
-## AUDIENCE PROFILE
+## INTENDED AUDIENCE
 
-#### Audience:
-- Technical Background:
-	- No experience with Markdown
-	- Some experience with GitHub
-	- No experience with Jekyll
-	- No experience with VS-code
-
-#### Venue:
-- README file within GitHub Pages
-
-#### Purpose:
-- Write a resume using Markdown, Format with Jekyll Theme, and host resume on GitHub Pages
-
-#### Additional Purpose:
-- Gain experience and confidence in technical writing tools: Markdown, Jekyll and GitHub Pages
-
-#### Desired Reaction: 
-- Informative and helpful
-
-#### Vocabulary: 
-- Technical and simple words to allow for understanding for people with a minimal background knowledge
-
-#### Tone: 
-- Respectful and formal
+The instructions below are a helpful guide to how to host your resume through GitHub Pages. A user with little to no background with Markdown, Git, and Jekyll can follow these instructions to host their resume.
 
 ## PREREQUISITES 
 
@@ -33,15 +10,15 @@ Prerequisites to using this are having a complete resume.
 
 ## INSTRUCTIONS
 	
-Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set theme.
+Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set Jekyll theme from GitHub.
 
-> The user first has to convert their resume document into a Markdown file. To create a Markdown file, a Markdown editor can be used to write it. Some Markdown editors that can be used are Atom and VSCode. Any Markdown editor can be used, it just depends on what your comfortable with. The editor used for this assignment specifically was VSCode. 
+> The user first has to convert their resume document into a Markdown file. To create a Markdown file, a Markdown editor can be used to write it. Some well-known Markdown editors are Atom and VSCode. Any Markdown editor can be used, it just depends on what your comfortable with. The editor used for this assignment specifically was VSCode. 
 
 > VSCode has nice features where you can see live previews and preview it with the GitHub Flavoured Markdown Plugin, so it fit very well with our assignment details. It is also an editor that is free to download online.
 
-> You can create your new Markdown file (extension .md) in your Markdown editor of choice and convert your resume using Markdown syntax. Below are some basic features in Markdown. 
+> You can create your new Markdown file (extension .md) in your Markdown editor of choice and convert your resume using Markdown syntax. Below are the Markdown syntax that were used in the resume markdown file. 
 
-#### HOW TO USE BASIC FEATURES IN MARKDOWN
+#### QUICK MARKDOWN TUTORIAL
 
 1. **EMPTY LINES**. A empy new line is used to separate text. If there is no empty line in between, the texts will be beside each other.
 
@@ -64,13 +41,7 @@ Hello, these instructions can help a user host their resume on Git and change th
 
 4. **TABLES**. Tables can be used to display information. Tables are made through the use of " | " and " --- " in specifc places. " | " is used to determine the number of rows and colums needed. A separate row is added and filled with " --- " in each column; it is placed as the second row. This row is not included as part of visible table, but is required in your markdown text. 
 
-	`Markdown
-	|    | 1  | 2  |  3 |
-	|--- |--- |--- |--- |
-	| 1  |    |    |    |
-	| 2  |    |    |    |
-	| 3  |	  |    |    |
-	`
+	![Table_Example](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TABLE.png)
 
 	|    | 1  | 2  |  3 |
 	|--- |--- |--- |--- |
@@ -85,13 +56,13 @@ Hello, these instructions can help a user host their resume on Git and change th
 	`Markdown
 	[darnellhernandez](https://github.com/darnellhernandez)`
 
-> If you are wanting to learn more about Markdown or curious about what more you can do. There are links to more resources in the resource section. 
+> If you are wanting to learn more about Markdown or curious about what more you can do. There are links to more resources in the resource section below. 
 
-> Once the resume is made into a Markdown file, a user can put it on Git. Git is a version control system that is free to use, and it is where we can host the markdown file.
+> Once the resume is made into a Markdown file, a user can put it on Git. Git is essentially a version control system that is free to use, and it is where we will host the markdown file.
 
 > In order to start, a user must make a Git account to use the system. Below are instruction to create an account, but if you have an account already, you may skip this step.
 
-#### HOW TO SIGNUP FOR GIT ACCOUNT
+#### SIGNING UP FOR A GIT ACCOUNT
 
 1. Go to the [Git Website](https://github.com/git)
 
@@ -114,7 +85,7 @@ The SignIn icon is outlined in **RED** in the example picture below.
 
 > Now that you are now an account user on Git, you may create a repository on your Git account for hosting your resume. Below are instructions on how to create a repositiory. 
 
-#### HOW TO CREATE A REPOSITORY ON GIT
+#### CREATING A REPOSITORY ON GIT
 
 1. First, login to your Git Account 
 
@@ -144,7 +115,7 @@ The **"NEW"** option has been outlined in **RED** in the example picture below.
 
 > Below are some basic features on how to use the repository
 
-#### HOW TO USE BASIC FEATURES OF THE REPOSITORY
+#### USING BASIC FEATURES ON YOUR REPOSITORY
 
 1. **Create a file**. Creating a file in the respository is simple, click the **"Create new file"** icon and it will lead you to a make a new document in the git editor. In this editor, you can name the document and enter in text. 
 
@@ -152,11 +123,7 @@ The **"Create new file"** option has been outlined in **RED** in the example pic
 
 ![CreateFile](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/CreateFile.png)
 
-For example, we can name the document "RESUME.md" and copy our content from our Markdown editor into this editor. This will allow us to save the resume in the repository. 
-
-![NewFile](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewFile.png)
-
-2. **Editing/Saving/Deleting**. In Git, they are icons in files to start editing. Additionally, once the edit option is selected, there is a trash-can icon for deleting files. In Git, saves are referred to as **"commits"**. In the file being editted, once the wanted changes are made, you can commit the changes to the document through the **commit changes""** icon at the bottom of the page. 
+2. **Editing/Saving/Deleting**. In Git, they are icons in files to start editing. Additionally, once the edit option is selected, there is a trash-can icon for deleting files. In Git, saves are referred to as **"commits"**. In the file being editted, you can commit the changes to the document through the **commit changes""**  at the bottom of the page. 
 
 The edit icon is outlined in **RED** and the trash-can icon is outlined in **BLUE** in the example picture below.
 
@@ -165,9 +132,9 @@ The edit icon is outlined in **RED** and the trash-can icon is outlined in **BLU
 Example of COMMIT SECTION
 ![COMMIT](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/COMMIT.png)
 
-> Once, the you have your resume on Git, they can host they resume on Git Pages. Git Pages is essential a public repository. Below are instructions on how to change your Jekyll template and host your resume on Git Pages.
+> Once your resume is on GitHub, you can host it on GitHub Pages. Below are instructions on how to change your Jekyll template and host your resume on GitHub Pages.
 
-#### HOW TO CHANGE TEMPLATE FOR MARKDOWN FILE AND HOST IN GIT PAGES
+#### CHANGING SETTING OF JEKYL THEME
 
 1. Go the the **SETTINGS** section of your repository.
 
@@ -175,7 +142,7 @@ The **SETTINGS** section has been outlined in **RED** in the example picture bel
 
 ![Settings](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Settings.png)
 
-2. In the **SETTINGS** section, there will be a _GitHub Pages section_. In this section, there will be an option to select your a Jekyll Theme. The selected theme for this assignment is "Midnight Theme". The theme can be any option as long as it supports markdown tables. In the preset themes, not all themes support markdown tables.
+2. In the **SETTINGS** section, there will be a _GitHub Pages section_. In this section, there will be an option to select your a Jekyll Theme. The selected theme for this assignment is "Midnight Theme".
 
 The **Theme** section has been outlined in **RED** in the example picture below.
 ![Theme](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Theme.png)
@@ -184,21 +151,19 @@ The **Theme** section has been outlined in **RED** in the example picture below.
 
 **_ config.yml** is a configuration file that contains the selected Jekyll theme and **Index.md** is a markdown file of their example. 
 
-4. Select the Index.md file and delete it through the trash can icon. Commit the changes to actually delete the file. The **Index.md** is the name of the file that will be hosted once you go to your GitHub Pages.
+#### HOSTING IN GIT PAGES
 
-5. Rename your resume file to **Index.md** through editting, so it can be used to host.
+1. Select the Index.md file created and delete it. The **Index.md** is the name of the file that will be hosted once you go to your GitHub Pages.
 
-6. In the **_ config.yml**, you can add a different title to your GitHub Page, if you do not want to default. By adding a line of code 
+2. Rename your resume file to **Index.md**.
 
-'title: Resume'
+3. (OPTIONAL) In the **_ config.yml**, you can add a different title to your GitHub Page, if you do not want to default (respository name). By adding a new line of code: "title: Resume".
 
-The default is the name of your repository. 
+![Title_Example](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TitleRename.png)
 
-7. Once completed, you can access your GitHub Page through the **Setting** section of your repository. In the **Sectting** section, the GitHub Page will have a link to your site.
+4. Once completed, you can access your GitHub Page through the **Setting** section of your repository. In the **Sectting** section, the GitHub Page will have a link to your site.
 
 ![Website](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Website.png)
-
-Finally, your resume is now hosted on GitHub Pages. 
 
 ## More Resources 
 -	A tutorial on [Markdown Tutorial](https://www.markdowntutorial.com/)
@@ -206,18 +171,17 @@ Finally, your resume is now hosted on GitHub Pages.
 -	An introduction to [GitHub Pages](https://help.github.com/en/categories/working-with-github-pages)
 
 ## Authors and Acknowledgements
--	Wilson - GROUP #20 
--	Harry - GROUP #20
-- [Lin from GROUP #11](http:github.com/zelin-qiu)
-- [Swetul from GROUP#11](http://github.com/swetul)
-- mattgraham (Theme Template Author)
-
+-	Wilson from GROUP #20 
+-	Harry from GROUP #20
+- 	[Lin from GROUP #11](http:github.com/zelin-qiu)
+- 	[Swetul from GROUP#11](http://github.com/swetul)
+- 	mattgraham (Theme Template Author)
 
 ## FAQs 
-### Why can I not use the pre-set Jekyll templates on GitHub?
-- Your repository may be on private as it must be set as public to use.  If you go to the **SETTINGS** section of your repository, at the bottom of the page there is a danger zone. You can change your repository to public to allow use of template.
+### How can I use the preset Jekyll templates on GitHub?
+- Your repository must be set as public to use them.  If you go to the **SETTINGS** section of your repository, at the bottom of the page there is a danger zone. You can change your repository to public to allow use of template.
 
 ![private](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Private.png)
 
-### Why does my template on change my "GitHub Page"?
+### Why does my new Jekyll template not change on my "GitHub Page"?
 - The page on GitHub Pages needs time for the settings to update.
