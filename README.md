@@ -188,7 +188,13 @@ The **Theme** section has been outlined in **RED** in the example picture below.
 
 5. Rename your resume file to **Index.md** through editting, so it can be used to host.
 
-6. Once completed, you can access your GitHub Page through the **Setting** section of your repository. In the **Sectting** section, the GitHub Page will have a link to your site.
+6. In the **_ config.yml**, you can add a different title to your GitHub Page, if you do not want to default. By adding a line of code 
+
+'title: Resume'
+
+The default is the name of your repository. 
+
+7. Once completed, you can access your GitHub Page through the **Setting** section of your repository. In the **Sectting** section, the GitHub Page will have a link to your site.
 
 ![Website](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Website.png)
 
@@ -202,9 +208,10 @@ Finally, your resume is now hosted on GitHub Pages.
 ## Authors and Acknowledgements
 -	Wilson - GROUP #20 
 -	Harry - GROUP #20
--       Lin - GROUP #11
-[Swetul](http://github.com/swetul)
--	mattgraham (Theme Template Author)
+- [Lin from GROUP #11](http:github.com/zelin-qiu)
+- [Swetul from GROUP#11](http://github.com/swetul)
+- mattgraham (Theme Template Author)
+
 
 ## FAQs 
 ### Why can I not use the pre-set Jekyll templates on GitHub?
