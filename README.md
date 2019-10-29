@@ -200,8 +200,10 @@ Finally, your resume is now hosted on GitHub Pages.
 -	An introduction to [GitHub Pages](https://help.github.com/en/categories/working-with-github-pages)
 
 ## Authors and Acknowledgements
--	Wilson
--	Harry
+-	Wilson - GROUP #20 
+-	Harry - GROUP #20
+-       Lin - GROUP #11
+-       Swetul - GROUP #11
 -	mattgraham (Theme Template Author)
 
 ## FAQs 
