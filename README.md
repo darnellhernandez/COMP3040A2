@@ -203,7 +203,7 @@ Finally, your resume is now hosted on GitHub Pages.
 -	Wilson - GROUP #20 
 -	Harry - GROUP #20
 -       Lin - GROUP #11
-- [Swetul](http://githup.com/swetul)
+[Swetul](http://github.com/swetul)
 -	mattgraham (Theme Template Author)
 
 ## FAQs 
