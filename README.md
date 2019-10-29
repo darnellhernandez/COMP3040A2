@@ -6,11 +6,11 @@ The instructions below are a helpful guide to how to host your resume through Gi
 
 ## PREREQUISITES 
 
-Prerequisites to using this are having a complete resume.
+Prerequisite to using this are having a complete resume.
 
 ## INSTRUCTIONS
 	
-Hello, these instructions can help a user host their resume on Git and change the layout to a pre-set Jekyll theme from GitHub.
+Hello, these instructions can help a user host their resume on GitHub and change the layout to a pre-set Jekyll theme from GitHub.
 
 > The user first has to convert their resume document into a Markdown file. To create a Markdown file, a Markdown editor can be used to write it. Some well-known Markdown editors are Atom and VSCode. Any Markdown editor can be used, it just depends on what your comfortable with. The editor used for this assignment specifically was VSCode. 
 
@@ -22,7 +22,7 @@ Hello, these instructions can help a user host their resume on Git and change th
 
 1. **EMPTY LINES**. A empy new line is used to separate text. If there is no empty line in between, the texts will be beside each other.
 
-2. **HEADERS.** Headers are used to separate text and to show different sizes of text. The Number of " # " placed in front of the text will change the size and separation with 1 " # " being the largest.
+2. **HEADERS.** Headers are used to separate text and to show different sizes of text. 
 
 	# HEADER1 
 	`Markdown # Header1`
@@ -31,7 +31,7 @@ Hello, these instructions can help a user host their resume on Git and change th
 	### HEADER3 
 	`Markdown ### Header3`
 
-3. **BOLD and _ITALICED_ TEXT**. Bold and italiced text can be use to differentiate between different text for importance. Bold text is implemented by placing 2 " * " at the before and after the text wanted to bold. Italiced text is implemented by placing 1 " _ " before and after text wanted. 
+3. **BOLD and _ITALICED_ TEXT**. Bold and italiced text can be use to differentiate between different text for importance. 
 
 	**HELLO** 
 	`Markdown **HELLO**`
@@ -39,7 +39,7 @@ Hello, these instructions can help a user host their resume on Git and change th
 	_BYE_ 
 	`Markdown _BYE_`
 
-4. **TABLES**. Tables can be used to display information. Tables are made through the use of " | " and " --- " in specifc places. " | " is used to determine the number of rows and colums needed. A separate row is added and filled with " --- " in each column; it is placed as the second row. This row is not included as part of visible table, but is required in your markdown text. 
+4. **TABLES**. Tables can be used to display information. 
 
 	![Table_Example](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TABLE.png)
 
@@ -49,7 +49,7 @@ Hello, these instructions can help a user host their resume on Git and change th
 	| 2  |    |    |    |
 	| 3  |	  |    |    |	
 
-5. **LINKS**. Links can be used to attach a link to text.Through the syntax [text](link), a user can attach a link to text.  For example, if the link was used to show other work or more resources. 
+5. **LINKS**. Links can be used to attach a link to text.
 
 	GitHub: [darnellhernandez](https://github.com/darnellhernandez)
 
@@ -83,7 +83,7 @@ Once completed you may login to your account through the SignIn Icon on the [Git
 The SignIn icon is outlined in **RED** in the example picture below.
 ![SignIn](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignIn.png)
 
-> Now that you are now an account user on Git, you may create a repository on your Git account for hosting your resume. Below are instructions on how to create a repositiory. 
+> Now that you have an account, you can create a repository on your profile. Below are instructions to create a repository.
 
 #### CREATING A REPOSITORY ON GIT
 
@@ -93,19 +93,17 @@ The SignIn icon is outlined in **RED** in the example picture below.
 
 ![icon](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/ICON.png).
 
-Click the icon and a drop down menu will appear. In that menu, there will be a **"Your repositories"** option. Please select that option.
+Click the icon and a drop down menu will appear. In that menu, click the **"Your repositories"** option.
 
 The icon and option have been outlined in **RED** in the example picture below.
 
 ![Repositories](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Repositories.png)
 
-3. Once in the repositories page, click on **"NEW"** to create a new repository. 
+3. Once in the repositories page, click on **"NEW"** to create a new repository. Afterwards, a new page will load to enter details about your new repository like repository name and additional details.
 
 The **"NEW"** option has been outlined in **RED** in the example picture below.
 
 ![NewRepository](https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewRepository.png)
-
-4. A new page will be seen and fill out the page to create a new repository. You will need a repository name and make the repository public. Click "Create repository" once finished.
 
 **NOTE: if you select _PRIVATE_ for your repository, you will not be able to use the preset templates in Git. You will have to change the settings of your repository later to use the templates.**
 
