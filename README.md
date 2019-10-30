@@ -39,9 +39,7 @@ Hello, these instructions can help a user host their resume on GitHub and change
 	_BYE_ 
 	`Markdown _BYE_`
 
-4. **TABLES**. Tables can be used to display information. 
-
-<br />
+4. **TABLES**. Tables can be used to display information. <br />
 <img width="175" height="150" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TABLE.png"/><div> <br />
 	
 	|    | 1  | 2  |  3 |
@@ -69,26 +67,18 @@ Hello, these instructions can help a user host their resume on GitHub and change
 
 2. Once on the website, click on the SignUp Icon.
 
-The SignUp icon is outlined in **RED** in the example picture below.
-
-<br />
+The SignUp icon is outlined in **RED** in the example picture below. <br />
 <img width="500" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignUp.png"/><div> <br />
 
-3. A new page will load, where you can create an account, by entering your preferred information.
-
-<br />
+3. A new page will load, where you can create an account, by entering your preferred information. <br />
 <img width="500" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/CreateAccount.png"/><div> <br />
 
-4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address in your email to finish confirmation.
-
-<br />
+4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address in your email to finish confirmation. <br />
 <img width="150" height="50" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png"/><div> <br />
 
 Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
 
-The SignIn icon is outlined in **RED** in the example picture below.
-
-<br />
+The SignIn icon is outlined in **RED** in the example picture below. <br />
 <img width="500" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignIn.png"/><div> <br />
 
 > Now that you have an account, you can create a repository on your profile. Below are instructions to create a repository.
@@ -97,23 +87,17 @@ The SignIn icon is outlined in **RED** in the example picture below.
 
 1. First, login to your Git Account 
 
-2. On the top right corner there will an icon that looks like this 
-
-<br />
+2. On the top right corner there will an icon that looks like this <br />
 <img width="25" height="25" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/ICON.png"/><div> <br />
 
 Click the icon and a drop down menu will appear. In that menu, click the **"Your repositories"** option.
 
-The icon and option have been outlined in **RED** in the example picture below.
-
-<br />
+The icon and option have been outlined in **RED** in the example picture below. <br />
 <img width="500" height="200" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Repositories.png"/><div> <br />
 
 3. Once in the repositories page, click on **"NEW"** to create a new repository. Afterwards, a new page will load to enter details about your new repository like repository name and additional details.
 
-The **"NEW"** option has been outlined in **RED** in the example picture below.
-
-<br />
+The **"NEW"** option has been outlined in **RED** in the example picture below. <br />
 <img width="500" height="100" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewRepository.png"/><div> <br />
 
 Example for **Create Repository Page**.<br />
@@ -128,15 +112,12 @@ Example for **Create Repository Page**.<br />
 
 1. Go the the **SETTINGS** section of your repository.
 
-	The **SETTINGS** section has been outlined in **RED** in the example picture below.
-
-<br />
+	The **SETTINGS** section has been outlined in **RED** in the example picture below. <br />
 <img width="800" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Settings.png"/><div> <br />
 
 2. In the **SETTINGS** section, there will be a _GitHub Pages section_. In this section, there will be an option to select your a Jekyll Theme. The selected theme for this assignment is "Midnight Theme".
 
-	The **Theme** section has been outlined in **RED** in the example picture below.
-<br />
+	The **Theme** section has been outlined in **RED** in the example picture below. <br />
 <img width="500" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Theme.png"/><div> <br />
 
 3. Once theme is selected, two new files will be added to your repository; **Index.md** and **_ config.yml**. 
@@ -149,15 +130,11 @@ Example for **Create Repository Page**.<br />
 
 2. Rename your resume file to **Index.md**.
 
-3. (OPTIONAL) In the **_ config.yml**, you can add a different title to your GitHub Page, if you do not want to default name (respository name). By adding a new line of code: "title: Resume".
-
-<br />
+3. (OPTIONAL) In the **_ config.yml**, you can add a different title to your GitHub Page, if you do not want to default name (respository name). By adding a new line of code: "title: Resume". <br />
 <img width="400" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TitleRename.png"/><div> <br />
 
 
-4. Once completed, you can access your GitHub Page through the **Setting** section of your repository. In the **Sectting** section, the GitHub Page will have a link to your site.
-
-<br />
+4. Once completed, you can access your GitHub Page through the **Setting** section of your repository. In the **Sectting** section, the GitHub Page will have a link to your site. <br />
 <img width="700" height="150" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Website.png"/><div> <br />
 
 ## More Resources 
@@ -174,8 +151,7 @@ Example for **Create Repository Page**.<br />
 
 ## FAQs 
 ### How can I use the preset Jekyll templates on GitHub?
-- Your repository must be set as public to use them.  If you go to the **SETTINGS** section of your repository, at the bottom of the page there is a danger zone. You can change your repository to public to allow use of template. 
-<br />
+- Your repository must be set as public to use them.  If you go to the **SETTINGS** section of your repository, at the bottom of the page there is a danger zone. You can change your repository to public to allow use of template. <br />
 <img width="500" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Private.png"/><div> <br />
 	
 ### Why does my new Jekyll template not change on my "GitHub Page"?
