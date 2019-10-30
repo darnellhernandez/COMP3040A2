@@ -16,7 +16,7 @@ Hello, these instructions can help a user host their resume on GitHub and change
 
 > VSCode has nice features where you can see live previews and preview it with the GitHub Flavoured Markdown Plugin, so it fit very well with our assignment details. It is also an editor that is free to download online.
 
-> You can create your Markdown file of your resume in your Markdown editor of choice. Below is a **QUICK MARKDOWN TUTORIAL** that contains the Markdown syntax that was used in this resume markdown file. 
+> You can create your Markdown file of your resume in your Markdown editor of choice. Below is a **QUICK MARKDOWN TUTORIAL** that contains the Markdown syntax that was used. 
 
 ### QUICK MARKDOWN TUTORIAL
 
