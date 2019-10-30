@@ -110,15 +110,15 @@ Example for **Create Repository Page**.<br />
 	The **Theme** section has been outlined in **RED** in the example picture below. <br />
 <img width="500" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Theme.png"/><div> <br />
 
-3. Once theme is selected, two new files will be added to your repository; **Index.md** and **_ config.yml**. 
+3. Once theme is selected, two new files will be added to your repository; **index.md** and **_ config.yml**. 
 
-	**_ config.yml** is a configuration file that contains the selected Jekyll theme and **Index.md** is a markdown file 	       of their example. 
+	**_ config.yml** is a configuration file that contains the selected Jekyll theme and **index.md** is a markdown file 	       of their example. 
 
 ### STEP3: HOSTING IN GITHUB PAGES
 
-1. Select the Index.md file created and delete it. The **Index.md** is the name of the file that will be hosted once you go to your GitHub Pages.
+1. Delete the created index.md file. The **Iidex.md** is the name of the file that will be hosted once you go to your GitHub Pages.
 
-2. Rename your resume file to **Index.md**.
+2. Rename your resume file to **index.md**.
 
 3. (OPTIONAL) In the **_ config.yml**, you can add a different title to your GitHub Page, if you do not want to default name (respository name). By adding a new line of code: "title: Resume". <br />
 <img width="400" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TitleRename.png"/><div> <br />
