@@ -71,7 +71,7 @@ The SignUp icon is outlined in **RED** in the example picture below. <br />
 <img width="500" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignUp.png"/><div> <br />
 
 3. A new page will load, where you can create an account, by entering your preferred information. <br />
-<img width="500" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/CreateAccount.png"/><div> <br />
+<img width="400" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/CreateAccount.png"/><div> <br />
 
 4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address in your email to finish confirmation. <br />
 <img width="150" height="50" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png"/><div> <br />
