@@ -116,10 +116,11 @@ The **"NEW"** option has been outlined in **RED** in the example picture below.
 <br />
 <img width="500" height="100" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewRepository.png"/><div> <br />
 
-**NOTE: if you select _PRIVATE_ for your repository, you will not be able to use the preset templates in Git. You will have to change the settings of your repository later to use the templates.**
-
-<br />
+Example for **Create Repository Page**.<br />
 <img width="500" height="400" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Create%20Repository.png"/><div> <br />
+
+	
+**NOTE: if you select _PRIVATE_ for your repository, you will not be able to use the preset templates in Git. You will have to change the settings of your repository later to use the templates.**
 
 > Your new repository will be created and found in the **"Your Repository"** section of your account. You can access it and place your Markdown file of your resume in the repository. Once added, you can start change your setting of your GitHub Page. Below are instructions to change of your jekyl theme.
 
