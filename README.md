@@ -120,7 +120,7 @@ Example for **Create Repository Page**.<br />
 
 2. Rename your resume file to **index.md**.
 
-3. (OPTIONAL) In the **_ config.yml**, you can add a different title to your GitHub Page, if you do not want to default name (respository name). By adding a new line of code: "title: Resume". <br />
+3. (OPTIONAL) In the **_ config.yml**, you can add a different title to your GitHub Page, if you do not want to default name (respository name) by adding a new line of code: "title: Resume". <br />
 <img width="400" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TitleRename.png"/><div> <br />
 
 4. Once completed, you can access your GitHub Page through the **Setting** section of your repository. In the **Sectting** section, the GitHub Page will have a link to your site. <br />
