@@ -75,7 +75,7 @@ The SignUp icon is outlined in **RED** in the example picture below. <br />
 <img width="150" height="50" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png"/><div> <br />
 Once completed, you can login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
 
-### Now that you have a Git account, and your resume as a Markdown file. Below are the following steps to host your resume on GitHub Pages
+#### Now that you have a Git account, and your resume as a Markdown file. Below are the following steps to host your resume on GitHub Pages
 
 ### STEP1: CREATING A REPOSITORY ON GIT
 
