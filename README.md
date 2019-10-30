@@ -6,17 +6,17 @@ The instructions below are a helpful guide to how to host your resume through Gi
 
 ## PREREQUISITES 
 
-Prerequisite to using this is having a complete resume.
+Prerequisite to using this are having a complete resume and a Git Account. If you do not have a Git account, in the **INSTRUCTION** below, there is a **SIGNING UP FOR A GIT ACCOUNT** section.
 
 ## INSTRUCTIONS
 	
 Hello, these instructions can help a user host their resume on GitHub and change the layout to a pre-set Jekyll theme from GitHub.
 
-> The user first has to convert their resume document into a Markdown file. To create a Markdown file, a Markdown editor can be used to write it. Some well-known Markdown editors are Atom and VSCode. Any Markdown editor can be used, it just depends on what your comfortable with. The editor used for this assignment specifically was VSCode. 
+> The user first has to convert their resume document into a Markdown file. To create a Markdown file, a Markdown editor can be used to write it. Some well-known Markdown editors are Atom and VSCode. Any Markdown editor can be used, it just depends on what your comfortable with. The editor used was VSCode. 
 
 > VSCode has nice features where you can see live previews and preview it with the GitHub Flavoured Markdown Plugin, so it fit very well with our assignment details. It is also an editor that is free to download online.
 
-> You can create your Markdown file of your resume in your Markdown editor of choice. Below are the Markdown syntax that were used in the resume markdown file. 
+> You can create your Markdown file of your resume in your Markdown editor of choice. Below is a **QUICK MARKDOWN TUTORIAL** that contains the Markdown syntax that was used in this resume markdown file. 
 
 ### QUICK MARKDOWN TUTORIAL
 
@@ -77,9 +77,9 @@ The SignUp icon is outlined in **RED** in the example picture below. <br />
 <img width="150" height="50" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png"/><div> <br />
 Once completed, you can login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
 
-> Now that you have an account, you can create a repository on your profile. Below are instructions to create a repository.
+**Now that you have an account, you can create a repository on your profile. Below are the following steps to host your resume on GitHub Pages**
 
-### CREATING A REPOSITORY ON GIT
+### STEP1: CREATING A REPOSITORY ON GIT
 
 1. First, login to your Git Account 
 
@@ -101,7 +101,7 @@ Example for **Create Repository Page**.<br />
 
 > Your new repository will be created and found in the **"Your Repository"** section of your account. You can access it and place your Markdown file of your resume in the repository. Once added, you can start change your setting of your GitHub Page. Below are instructions to change of your jekyl theme.
 
-### CHANGING SETTING OF JEKYL THEME
+### STEP2: CHANGING SETTING OF JEKYL THEME
 
 1. Go the the **SETTINGS** section of your repository.
 
@@ -117,7 +117,7 @@ Example for **Create Repository Page**.<br />
 
 	**_ config.yml** is a configuration file that contains the selected Jekyll theme and **Index.md** is a markdown file 	       of their example. 
 
-### HOSTING IN GIT PAGES
+### STEP3: HOSTING IN GIT PAGES
 
 1. Select the Index.md file created and delete it. The **Index.md** is the name of the file that will be hosted once you go to your GitHub Pages.
 
