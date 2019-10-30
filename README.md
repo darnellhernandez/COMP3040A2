@@ -117,7 +117,7 @@ Example for **Create Repository Page**.<br />
 
 	**_ config.yml** is a configuration file that contains the selected Jekyll theme and **Index.md** is a markdown file 	       of their example. 
 
-### STEP3: HOSTING IN GIT PAGES
+### STEP3: HOSTING IN GITHUB PAGES
 
 1. Select the Index.md file created and delete it. The **Index.md** is the name of the file that will be hosted once you go to your GitHub Pages.
 
