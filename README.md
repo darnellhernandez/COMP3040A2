@@ -81,8 +81,7 @@ Once completed, you can login to your account through the SignIn Icon on the [Gi
 
 1. First, login to your Git Account 
 
-2. On the top right corner there will an icon that looks like this <br />
-<img width="25" height="25" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/ICON.png"/><div> <br />
+2. On the top right corner there will an icon that looks like this <br /><img width="50" height="50" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/ICON.png"/><div> <br />
 Click the icon and a drop down menu will appear. In that menu, click the **"Your repositories"** option.
 
 The icon and option have been outlined in **RED** in the example picture below. <br />
