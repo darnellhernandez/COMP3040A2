@@ -40,7 +40,7 @@ Hello, these instructions can help a user host their resume on GitHub and change
 	`Markdown _BYE_`
 
 4. **TABLES**. Tables can be used to display information. <br />
-<img width="175" height="125" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TABLE.png"/><div> <br />
+<img width="175" height="100" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TABLE.png"/><div> <br />
 	
 	|    | 1  | 2  |  3 |
 	|--- |--- |--- |--- |
