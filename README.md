@@ -75,10 +75,7 @@ The SignUp icon is outlined in **RED** in the example picture below. <br />
 
 4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address in your email to finish confirmation. <br />
 <img width="150" height="50" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png"/><div> <br />
-Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
-
-The SignIn icon is outlined in **RED** in the example picture below. <br />
-<img width="500" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignIn.png"/><div> <br />
+Once completed, you can login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
 
 > Now that you have an account, you can create a repository on your profile. Below are instructions to create a repository.
 
