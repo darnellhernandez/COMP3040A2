@@ -89,7 +89,7 @@ The icon and option have been outlined in **RED** in the example picture below. 
 
 3. Once in the repositories page, click on **"NEW"** to create a new repository. Afterwards, a new page will load to enter details about your new repository like repository name and additional details.
 
-The **"NEW"** option has been outlined in **RED** in the example picture below. <br />
+	The **"NEW"** option has been outlined in **RED** in the example picture below. <br />
 <img width="500" height="100" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewRepository.png"/><div> <br />
 Example for **Create Repository Page**.<br />
 <img width="500" height="400" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Create%20Repository.png"/><div> <br />
