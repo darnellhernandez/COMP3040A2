@@ -148,6 +148,6 @@ Example for **Create Repository Page**.<br />
 ### How can I use the preset Jekyll templates on GitHub?
 - Your repository must be set as public to use them.  If you go to the **SETTINGS** section of your repository, at the bottom of the page there is a danger zone. You can change your repository to public to allow use of template. <br />
 <img width="500" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Private.png"/><div> <br />
-	
+
 ### Why does my new Jekyll template not change on my "GitHub Page"?
 - The page on GitHub Pages needs time for the settings to update.
