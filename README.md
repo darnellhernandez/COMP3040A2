@@ -6,7 +6,7 @@ The instructions below are a helpful guide to how to host your resume through Gi
 
 ## PREREQUISITES 
 
-Prerequisite to using this are having a complete resume and a Git Account. If you do not have a Git account, in the **INSTRUCTION** below, there is a **SIGNING UP FOR A GIT ACCOUNT** section.
+Prerequisite to using this are having a complete resume and a Git Account. If you do not have a Git account, in the **INSTRUCTIONS** below, there is a **SIGNING UP FOR A GIT ACCOUNT** section.
 
 ## INSTRUCTIONS
 	
