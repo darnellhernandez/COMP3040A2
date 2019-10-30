@@ -57,9 +57,7 @@ Hello, these instructions can help a user host their resume on GitHub and change
 
 > If you are wanting to learn more about Markdown or curious about what more you can do. There are links to more resources in the resource section below. 
 
-> Once the resume is made into a Markdown file, a user can put it on Git. Git is essentially a version control system that is free to use, and it is where we will host the markdown file.
-
-> In order to start, a user must make a Git account to use the system. Below are instruction to create an account, but if you have an account already, you may skip this step.
+> Once the resume is made into a Markdown file, you can place your resume on Git. If you do not have a Git account, below are instruction to create an account, but if you have an account already, you may skip this step.
 
 ### SIGNING UP FOR A GIT ACCOUNT
 
@@ -68,7 +66,7 @@ Hello, these instructions can help a user host their resume on GitHub and change
 2. Once on the website, click on the SignUp Icon.
 
 The SignUp icon is outlined in **RED** in the example picture below. <br />
-<img width="500" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignUp.png"/><div> <br />
+<img width="600" height="300" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/SignUp.png"/><div> <br />
 
 3. A new page will load, where you can create an account, by entering your preferred information. <br />
 <img width="400" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/CreateAccount.png"/><div> <br />
@@ -77,7 +75,7 @@ The SignUp icon is outlined in **RED** in the example picture below. <br />
 <img width="150" height="50" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png"/><div> <br />
 Once completed, you can login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
 
-**Now that you have an account, you can create a repository on your profile. Below are the following steps to host your resume on GitHub Pages**
+**Now that you have an account, and your resume as a Markdown file. Below are the following steps to host your resume on GitHub Pages**
 
 ### STEP1: CREATING A REPOSITORY ON GIT
 
