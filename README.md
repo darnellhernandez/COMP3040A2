@@ -75,7 +75,6 @@ The SignUp icon is outlined in **RED** in the example picture below. <br />
 
 4. Once account completed, an email confirmation will be sent to the selected email. The email is used for verification, so please click on the verify email address in your email to finish confirmation. <br />
 <img width="150" height="50" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/VERIFY.png"/><div> <br />
-
 Once completed you may login to your account through the SignIn Icon on the [Git Website](https://github.com/git).
 
 The SignIn icon is outlined in **RED** in the example picture below. <br />
@@ -89,7 +88,6 @@ The SignIn icon is outlined in **RED** in the example picture below. <br />
 
 2. On the top right corner there will an icon that looks like this <br />
 <img width="25" height="25" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/ICON.png"/><div> <br />
-
 Click the icon and a drop down menu will appear. In that menu, click the **"Your repositories"** option.
 
 The icon and option have been outlined in **RED** in the example picture below. <br />
@@ -99,11 +97,9 @@ The icon and option have been outlined in **RED** in the example picture below. 
 
 The **"NEW"** option has been outlined in **RED** in the example picture below. <br />
 <img width="500" height="100" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/NewRepository.png"/><div> <br />
-
 Example for **Create Repository Page**.<br />
 <img width="500" height="400" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Create%20Repository.png"/><div> <br />
 
-	
 **NOTE: if you select _PRIVATE_ for your repository, you will not be able to use the preset templates in Git. You will have to change the settings of your repository later to use the templates.**
 
 > Your new repository will be created and found in the **"Your Repository"** section of your account. You can access it and place your Markdown file of your resume in the repository. Once added, you can start change your setting of your GitHub Page. Below are instructions to change of your jekyl theme.
@@ -132,7 +128,6 @@ Example for **Create Repository Page**.<br />
 
 3. (OPTIONAL) In the **_ config.yml**, you can add a different title to your GitHub Page, if you do not want to default name (respository name). By adding a new line of code: "title: Resume". <br />
 <img width="400" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/TitleRename.png"/><div> <br />
-
 
 4. Once completed, you can access your GitHub Page through the **Setting** section of your repository. In the **Sectting** section, the GitHub Page will have a link to your site. <br />
 <img width="700" height="150" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Website.png"/><div> <br />
