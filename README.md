@@ -127,20 +127,20 @@ The **"NEW"** option has been outlined in **RED** in the example picture below.
 
 1. Go the the **SETTINGS** section of your repository.
 
-The **SETTINGS** section has been outlined in **RED** in the example picture below.
+	The **SETTINGS** section has been outlined in **RED** in the example picture below.
 
 <br />
-<img width="500" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Settings.png"/><div> <br />
+<img width="800" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Settings.png"/><div> <br />
 
 2. In the **SETTINGS** section, there will be a _GitHub Pages section_. In this section, there will be an option to select your a Jekyll Theme. The selected theme for this assignment is "Midnight Theme".
 
-The **Theme** section has been outlined in **RED** in the example picture below.
+	The **Theme** section has been outlined in **RED** in the example picture below.
 <br />
 <img width="500" height="250" src="https://github.com/darnellhernandez/COMP3040A2/blob/master/pictures/Theme.png"/><div> <br />
 
 3. Once theme is selected, two new files will be added to your repository; **Index.md** and **_ config.yml**. 
 
-**_ config.yml** is a configuration file that contains the selected Jekyll theme and **Index.md** is a markdown file of their example. 
+	**_ config.yml** is a configuration file that contains the selected Jekyll theme and **Index.md** is a markdown file 	       of their example. 
 
 ### HOSTING IN GIT PAGES
 
