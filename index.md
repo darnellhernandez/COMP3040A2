@@ -10,7 +10,7 @@
 | ---                                        | ---                                       |
 | University of Manitoba                     | University of Manitoba                    |
 | Major: _Computer Science_                  | Major: _Genetics_                         |
-| Expected Date of Completion: _August 2020_ | Expected Date of Completion: _August 2020_|
+| Expected Date of Completion: _August 2021_ | Expected Date of Completion: _August 2021_|
 
 
 ## TECHNICAL SKILLS FROM COMPUTER SCIENCE
