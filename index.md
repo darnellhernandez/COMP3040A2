@@ -25,7 +25,7 @@
  
 | **Methods and Techniques**     | **Tools and Technologies** |
 | ---                            | ---                        |
-| Asceptic technique             | Micropipette               |
+| Aseptic technique             | Micropipette               |
 | Bacterial staining             | Spectrophotometer          |
 | PCR                            | Centrifuge machine         |
 | Media and solution preparation | Biosafety cabinet          |
